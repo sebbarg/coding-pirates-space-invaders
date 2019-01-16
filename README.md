@@ -1,1 +1,2 @@
-# coding-pirates-space-invaders
+# Space Invaders
+## Coding Pirates Hørsholm
