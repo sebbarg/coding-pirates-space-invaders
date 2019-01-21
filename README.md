@@ -1,2 +1,7 @@
 # Space Invaders
-## Coding Pirates Hørsholm
+Coding Pirates Hørsholm
+
+## Chained comparisons
+x < y < z is equivalent to x < y and y < z
+
+
